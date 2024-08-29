@@ -30,6 +30,40 @@ Nos últimos anos, especificamente desde 2018, foquei em criar protótipos rápi
 
 Nos próximos 4 anos, estou direcionando meu foco para a especialização em **.NET Core** e **ASP.NET Core**, com ênfase no desenvolvimento de **APIs RESTful** e **microserviços**. Este é um passo estratégico para expandir minhas habilidades e conhecimentos, integrando novas tecnologias com a sólida base que já possuo em Python, DevOps e IA.
 
+# 📘 Livro de Referência: "System Programming with .NET and C#"
+
+![System Programming with .NET and C#](https://github.com/evolucaoit/Estudos_2024_2028/blob/main/assets/NSK4eXr37l.png?raw=true)
+
+Estou utilizando o livro **"System Programming with .NET and C#"** da Packt, edição de agosto de 2024, como guia para minha jornada de aprendizado. Este livro, que abrange **C# 12** e **.NET 8**, será fundamental para aprofundar meus conhecimentos em desenvolvimento de sistemas e programação com as tecnologias mais recentes.
+
+🔍 **Objetivo**: Aplicar conceitos e práticas recomendadas do livro para criar aplicações robustas e eficientes com **.NET 8** e **C# 12**.
+# 📚 Recursos e Foco de Estudo
+
+## 💡 Citação Inspiradora
+
+![Citação de Einstein sobre Conhecimento](https://github.com/evolucaoit/Estudos_2024_2028/blob/main/assets/chrome_ACAC0J8U3g.png?raw=true)
+
+*"A educação é o que resta depois que esquecemos o que aprendemos na escola."* - Albert Einstein
+
+## 📖 Livros e Materiais de Estudo
+
+### 🔍 **GitOps com Kubernetes**
+
+![GitOps com Kubernetes](https://github.com/evolucaoit/Estudos_2024_2028/blob/main/assets/SumatraPDF_RLk96sn8JT.png?raw=true)
+
+Um guia essencial para entender GitOps e Kubernetes, oferecendo uma abordagem moderna para a gestão e automação de operações de software.
+
+### 🤖 **Machine Learning Solutions Architect**
+
+![Machine Learning Solutions Architect](https://github.com/evolucaoit/Estudos_2024_2028/blob/main/assets/SumatraPDF_2IB2c9chpl.png?raw=true)
+
+Considerado um dos melhores livros sobre IA e ML até o momento, este livro é fundamental para aprofundar meus conhecimentos em redes neurais e arquiteturas de soluções em machine learning.
+
+---
+
+**Foco Atual**: Meu estudo está fortemente direcionado para **redes neurais** e **arquiteturas de soluções em machine learning**. Além disso, estou explorando **GitOps** e **Kubernetes** para aprimorar minhas habilidades em DevOps e automação.
+
+
 ### 🎯 Objetivos de Aprendizado
 
 1. **Desenvolvimento com .NET Core**: 
