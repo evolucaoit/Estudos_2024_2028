@@ -22,6 +22,35 @@ Minha paixão pela tecnologia começou em 2010. Naquele tempo, eu era um jovem e
 
 Nos últimos anos, especificamente desde 2018, foquei em criar protótipos rápidos e soluções avançadas. Minha experiência se expandiu para áreas como machine learning, visão computacional e arquitetura de sistemas, com um forte impulso para a automação e integração de tecnologias emergentes. Em 2024, decidi documentar esta nova fase da minha jornada com mais detalhe e profundidade.
 
+# 🚀 Foco Futuro em .NET e Desenvolvimento de APIs
+
+![Foco Futuro](https://github.com/evolucaoit/Estudos_2024_2028/blob/main/assets/0_T8JofJXLszu_2USl.jpg?raw=true)
+
+## 📚 Meu Plano de Estudo e Desenvolvimento
+
+Nos próximos 4 anos, estou direcionando meu foco para a especialização em **.NET Core** e **ASP.NET Core**, com ênfase no desenvolvimento de **APIs RESTful** e **microserviços**. Este é um passo estratégico para expandir minhas habilidades e conhecimentos, integrando novas tecnologias com a sólida base que já possuo em Python, DevOps e IA.
+
+### 🎯 Objetivos de Aprendizado
+
+1. **Desenvolvimento com .NET Core**: 
+   - Profundar o conhecimento em **.NET Core** e **C#** para criar aplicações robustas e escaláveis.
+   - Explorar os recursos avançados e práticas recomendadas para o desenvolvimento de **microserviços**.
+
+2. **ASP.NET Core e APIs RESTful**: 
+   - Especializar em **ASP.NET Core** para criar **APIs RESTful** eficientes e seguras.
+   - Implementar e testar **arquiteturas de microserviços** utilizando **ASP.NET Core**.
+
+3. **Integração e Boas Práticas**: 
+   - Aplicar conceitos de **DevOps** e **MLOps** para integrar e automatizar processos no desenvolvimento com **.NET Core**.
+   - Adotar práticas de **CI/CD** para otimizar o ciclo de vida das aplicações e garantir a entrega contínua de valor.
+
+### 🛠️ O que Esperar
+
+- **Evolução Contínua**: Ao longo do tempo, vocês verão minha evolução e projetos relacionados a **.NET Core** e **ASP.NET Core** neste repositório.
+- **Documentação e Exemplos**: Compartilharei exemplos práticos, tutoriais e melhores práticas para ajudar na compreensão e aplicação dessas tecnologias.
+- **Feedback e Colaboração**: Estou aberto a feedbacks e colaborações para aprimorar ainda mais meu aprendizado e contribuir com a comunidade.
+
+
 ---
 
 ## **📚 O Propósito do Repositório**
