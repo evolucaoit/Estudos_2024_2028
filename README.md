@@ -18,6 +18,15 @@ Bem-vindo ao meu repositório *Estudos 2024 - 2028*! Neste espaço, vou concentr
 
 Minha paixão pela tecnologia começou em 2010. Naquele tempo, eu era um jovem explorador do mundo da programação e da infraestrutura. Cada projeto e desafio me guiou por um caminho de evolução constante. Desde a administração de redes até o desenvolvimento de soluções completas, minha trajetória foi marcada por uma busca incessante por inovação e aprendizado. 🌐💻
 
+## 🚀 Projetos em Andamento
+
+Estou atualmente envolvido em diversos projetos emocionantes e desafiadores. Confira o progresso e detalhes de cada um dos meus projetos em andamento no documento a seguir:
+
+- **[Projetos em Andamento](https://github.com/evolucaoit/Estudos_2024_2028/blob/main/projetos-andamento.md)**
+
+Acompanhe as atualizações, desenvolvimentos e inovações que estou implementando ao longo dessa jornada!
+
+
 ### **🚀 O Crescimento**
 
 Nos últimos anos, especificamente desde 2018, foquei em criar protótipos rápidos e soluções avançadas. Minha experiência se expandiu para áreas como machine learning, visão computacional e arquitetura de sistemas, com um forte impulso para a automação e integração de tecnologias emergentes. Em 2024, decidi documentar esta nova fase da minha jornada com mais detalhe e profundidade.
